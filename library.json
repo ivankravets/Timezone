@@ -7,6 +7,13 @@
     "type": "git",
     "url": "https://github.com/JChristensen/Timezone.git"
   },
+  "dependencies":
+  [
+    {
+      "name": "Time",
+      "frameworks": "arduino"
+    }
+  ],
   "frameworks": "arduino",
   "platforms": "atmelavr"
 }
